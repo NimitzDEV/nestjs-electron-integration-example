@@ -8,8 +8,7 @@ This is a simple example showing how to properly use `nestjs-electron-ipc-transp
 
 ```
 yarn install
-yarn renderer:dev
-yarn start:dev
+yarn dev
 ```
 
 ## Project structure
